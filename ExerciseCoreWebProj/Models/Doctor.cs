@@ -12,4 +12,7 @@ public partial class Doctor
     public virtual ICollection<DoctorSpecialization> DoctorSpecializations { get; set; } = new List<DoctorSpecialization>();
 
     public virtual ICollection<Surgery> Surgeries { get; set; } = new List<Surgery>();
+
+    public int Loki { get; set; }
+
 }

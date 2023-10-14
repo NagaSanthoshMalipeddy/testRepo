@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\smalipeddy\\source\\repos\\soti\\Project\\ExerciseCoreWebProj\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj": {}
+    "C:\\Users\\klokesh\\Training Soti\\git1\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj": {}
   },
   "projects": {
-    "C:\\Users\\smalipeddy\\source\\repos\\soti\\Project\\ExerciseCoreWebProj\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj": {
+    "C:\\Users\\klokesh\\Training Soti\\git1\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\smalipeddy\\source\\repos\\soti\\Project\\ExerciseCoreWebProj\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj",
+        "projectUniqueName": "C:\\Users\\klokesh\\Training Soti\\git1\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj",
         "projectName": "ExerciseCoreWebProj",
-        "projectPath": "C:\\Users\\smalipeddy\\source\\repos\\soti\\Project\\ExerciseCoreWebProj\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj",
-        "packagesPath": "C:\\Users\\smalipeddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\smalipeddy\\source\\repos\\soti\\Project\\ExerciseCoreWebProj\\ExerciseCoreWebProj\\obj\\",
+        "projectPath": "C:\\Users\\klokesh\\Training Soti\\git1\\ExerciseCoreWebProj\\ExerciseCoreWebProj.csproj",
+        "packagesPath": "C:\\Users\\klokesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\klokesh\\Training Soti\\git1\\ExerciseCoreWebProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\smalipeddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\klokesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
